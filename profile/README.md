@@ -1,4 +1,4 @@
-## Welcode to TypeScript Tutorial Exercise
+## Welcome to TypeScript Tutorial Exercise
 
 Reference https://github.com/typescript-exercises/typescript-exercises.
 
