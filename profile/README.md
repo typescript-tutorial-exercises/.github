@@ -1,3 +1,5 @@
+# This organization has been transformed to [type-challenges/site](https://github.com/type-challenges/site)
+
 ## Welcome to TypeScript Tutorial Exercise
 
 [![licenses](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
